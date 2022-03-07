@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poeggers LLC</title>
+    <link>https://poeggers.github.io/</link>
+    <description>Recent content on Poeggers LLC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Chris Rectenwald 2022</copyright><atom:link href="https://poeggers.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://poeggers.github.io/about/</link>
+      <pubDate>Mon, 07 Mar 2022 15:43:21 -0600</pubDate>
+      
+      <guid>https://poeggers.github.io/about/</guid>
+      <description>Built by the best, Chris Rectenwald</description>
+    </item>
+    
+  </channel>
+</rss>
